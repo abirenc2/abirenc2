@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abirenc2
 - 👀 I’m interested in SOFTWARE ENNGINERING
-- 🌱 I’m currently learning C LANGUAGE AS A 1ST YEAR STUDENT 
+- 🌱 I’m currently learning C LANGUAGE AS A 2nd YEAR STUDENT 
 - 💞️ I’m looking to collaborate on SMALL C PROJECTS TO ENHANCE MY KNOWLEDGE 
 - 📫 How to reach me ? DM 
 - 😄 Pronouns: SHE
